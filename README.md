@@ -17,4 +17,4 @@ I’m comfortable working with both **Vim** and **VS Code**.
 ---
 
 ### LinkedIn
-- [[LinkedIn profile]](https://www.linkedin.com/in/jyotipadabehera/)  
+- [[Jyotipada Behera - LinkedIn]](https://www.linkedin.com/in/jyotipadabehera/)  
