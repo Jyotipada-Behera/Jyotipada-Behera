@@ -1,20 +1,21 @@
-I’m **Jyotipada Behera**, a Computer Science and Engineering undergraduate at **IIEST Shibpur (B.Tech 2025–2029)**.  
-Currently, I’m focusing on:
+### Hi there, I'm Jyotipada
 
-- Understanding core computer science concepts  
-- Problem solving and algorithmic thinking  
-- Writing clean, efficient, and maintainable code  
+I'm a Computer Science and Engineering undergraduate at **IIEST Shibpur** (Class of 2029).
 
-I’m comfortable working with both **Vim** and **VS Code**.  
+I'm using GitHub to document my learning, build projects, and collaborate.
 
 ---
 
-### Skills & Interests
-- **Languages**: C, Python
-- **Editors**: Vim, VS Code  
-- **Interests**: Programming fundamentals, problem solving, system-level concepts  
+#### What I'm Working With
 
----
+* **Proficient:** Python
+* **Currently Learning:** C (to build a stronger foundation in system-level concepts)
 
-### LinkedIn
-- [[Jyotipada Behera - LinkedIn]](https://www.linkedin.com/in/jyotipadabehera/)  
+#### What I'm Exploring
+
+* 🤖 **Artificial Intelligence (AI/ML):** Working on understanding and implementing core models.
+* ☁️ **Cloud Computing:** Learning the fundamentals of building and deploying applications at scale.
+
+#### How to reach me
+
+* **LinkedIn:** `https://www.linkedin.com/in/jyotipadabehera/`
