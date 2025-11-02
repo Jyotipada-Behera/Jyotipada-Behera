@@ -13,8 +13,8 @@ I'm using GitHub to document my learning, build projects, and collaborate.
 
 #### What I'm Exploring
 
-* 🤖 **Artificial Intelligence (AI/ML):** Working on understanding and implementing core models.
-* ☁️ **Cloud Computing:** Learning the fundamentals of building and deploying applications at scale.
+*  **Artificial Intelligence (AI/ML):** Working on understanding and implementing core models.
+*  **Cloud Computing:** Learning the fundamentals of building and deploying applications at scale.
 
 #### How to reach me
 
