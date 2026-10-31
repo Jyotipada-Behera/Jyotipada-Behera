@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jyotipada Behera
 
-<!--
-**Jyotipada-Behera/Jyotipada-Behera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science (CST) Undergraduate @ IIEST, Shibpur ('29)**  
+📍 Bengaluru / Kolkata, India | 🔗 [LinkedIn](https://www.linkedin.com/in/jyotipadabehera)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- **Focus:** Systems C++, Electronic Design Automation (EDA), RTL Design, and VLSI Verification.
+- **Currently Working On:** Designing synthesizable **Verilog HDL** circuits, writing **self-checking testbenches**, and running functional verification simulations in **ModelSim**.
+- **Future Goal:** Bridging **Generative AI / Prompt Engineering** and **EDA** to automate RTL generation, assertion synthesis, and verification workflows.
+
+---
+
+### Tech Stack & Certifications
+- **Languages:** C++, C, Verilog HDL, Python, Tcl
+- **EDA & Hardware Tools:** ModelSim (Intel FPGA), RTL Synthesis & Simulation Concepts
+- **AI & Data:** Generative AI, Prompt Engineering, Python Data Analysis (IBM Certified)
+- **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Digital Logic
+
+---
+
+### Featured Repository
+- **[Jyotipada-Behera/Verilog](https://github.com/Jyotipada-Behera/Verilog)** — Hands-on Verilog RTL labs, counters, and self-checking testbench simulations with waveform verification in ModelSim.
