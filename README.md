@@ -19,6 +19,3 @@
 - **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Digital Logic
 
 ---
-
-### Featured Repository
-- **[Jyotipada-Behera/Verilog](https://github.com/Jyotipada-Behera/Verilog)** — Hands-on Verilog RTL labs, counters, and self-checking testbench simulations with waveform verification in ModelSim.
