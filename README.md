@@ -2,7 +2,7 @@
 
 **Computer Science & Technology (CST) Undergraduate @ IIEST, Shibpur (’29)**  
 **EDA, VLSI Verification & RTL Design | C++, Verilog HDL, Python & GenAI**  
-📍 Bengaluru / Kolkata, India | 🔗 [GitHub Profile](https://github.com/Jyotipada-Behera) | 🔗 [LinkedIn](https://in.linkedin.com/in/jyotipadabehera) | 🌐 [Portfolio Page](https://jyotipada-behera.github.io/Jyotipada-Behera/)
+📍 Bengaluru / Kolkata, India | 🔗 [GitHub Profile](https://github.com/Jyotipada-Behera) | 🔗 [LinkedIn](https://in.linkedin.com/in/jyotipadabehera) | ▶️ [YouTube](https://www.youtube.com/@jyotipada-behera) | 🌐 [Portfolio Page](https://jyotipada-behera.github.io/Jyotipada-Behera/)
 
 ---
 
