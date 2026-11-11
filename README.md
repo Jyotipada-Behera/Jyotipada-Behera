@@ -19,7 +19,7 @@
 * **[Jyotipada-Behera/Verilog](https://github.com/Jyotipada-Behera/Verilog)** — Synthesizable Verilog RTL design and VLSI verification labs by Jyotipada Behera, featuring:
   * **16-Bit ALU Design:** Synthesizable RTL implementation, gate-level synthesis schematic, and 100 KHz functional simulation in ModelSim.
   * **RTL Modules & Self-Checking Testbenches:** Counters, digital logic blocks, automated testbench verification, and waveform analysis.
-  * ▶️ **[Watch 16-Bit ALU ModelSim Verification Demo on YouTube]([YT_LINK](https://www.youtube.com/watch?v=poTOcCqhMlc))**
+  * ▶️ **[Watch 16-Bit ALU ModelSim Verification Demo on YouTube]([https://www.youtube.com/watch?v=poTOcCqhMlc])**
 
 ---
 
